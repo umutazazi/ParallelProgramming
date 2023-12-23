@@ -46,6 +46,8 @@ Batuhan Yavuz, A. Bora Özışık, Mert Boyaoğlu, Eren Ersoyluoğlu
 
 DiningVillagers(Beyza Sungar, Mustafa Eren Tugcu, Rukiye Tura)
 
+BadBoyoz (Umut AZAZİ, Onur TİRİŞ)
+
 # Strategy: Dijkstra's Solution
 Emre Özcan, Elanur İleri, Sema Nimet Ünal
 
